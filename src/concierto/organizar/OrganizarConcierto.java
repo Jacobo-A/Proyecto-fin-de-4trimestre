@@ -1,5 +1,6 @@
 /**
  * Creado: 15 jun. 2021
+  Hola
  */
 package concierto.organizar;
 
@@ -14,7 +15,7 @@ import concierto.servicios.Servicio;
 
 /**
  * @author Flores Jacobo Alejandro matricula 2193037519
- * @author Profesor: Dra. Rafaela Blanca Silva López
+ * @author Profesor: Dra. Rafaela Blanca Silva LÃ³pez
  * @author Proyecto Final POO Tema: Organizar un concierto
  */
 public class OrganizarConcierto
